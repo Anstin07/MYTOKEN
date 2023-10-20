@@ -1,6 +1,6 @@
-# MYTOKEN 
+# NEWTOKEN 
 # Solidity Program: MyToken
-This is a Solidity smart contract that implements a basic token called MyToken (TOKENMETA) with functionalities for minting and burning tokens.
+This is a Solidity smart contract that implements a basic token called NEWTOKEN (TOKENMETA) with functionalities for minting and burning tokens.
 # Requirements
 The contract has public variables to store details about the token, including its name, abbreviation, and total supply.
 A mapping is used to track the token balances of different addresses (address => uint).

@@ -6,8 +6,8 @@ pragma solidity 0.8.18;
 contract NewToken {
 
     
-    string public tokenName = "TOKENMETA";
-    string public tokenAbbrv = "TKM";
+    string public tokenName = "TOKEN_META_CRAFTERS";
+    string public tokenAbbrv = "TKC";
     uint public totalSupply = 0;
 
     

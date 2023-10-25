@@ -1,5 +1,5 @@
 
-# MyToken
+# NewToken
 This is a Solidity smart contract that implements a basic token called NEWTOKEN (TOKENMETA) with functionalities for minting and burning tokens.
 # Requirements
 The contract has public variables to store details about the token, including its name, abbreviation, and total supply.

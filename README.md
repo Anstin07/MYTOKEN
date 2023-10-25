@@ -1,6 +1,6 @@
 
 # NewToken
-This is a Solidity smart contract made by me for the last project assessment that implements a basic token called NEWTOKEN (TOKENMETA) with functionalities for minting and burning tokens.
+This is a Solidity smart contract made by me for the last project assessment that implements a basic token called NEWTOKEN (TOKEN_META_CRAFTERS) with functionalities for minting and burning tokens.
 # Requirements
 The contract has public variables to store details about the token, including its name, abbreviation, and total supply.
 A mapping is used to track the token balances of different addresses (address => uint).
